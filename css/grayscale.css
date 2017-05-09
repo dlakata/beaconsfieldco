@@ -238,6 +238,9 @@ a:focus {
   padding-right: 30px;
   padding-left: 30px;
 }
+.list-inline .translate {
+  transform: translateY(-50%);
+}
 #map {
   width: 100%;
   height: 200px;
